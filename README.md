@@ -18,4 +18,5 @@ Central hub for my Turbin3 Accelerator Q2 2026 assignments and capstone.
 
 ## Capstone
 
-*Coming soon*
+### Arch Diagram
+![Arch diagram showing the flow of fluxdex](/arch-diagram.png)
